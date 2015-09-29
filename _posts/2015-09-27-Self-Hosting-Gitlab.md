@@ -1,5 +1,5 @@
 ---
-title: Hosting Gitlab
+title: Self Hosting Gitlab
 layout: post
 ---
 
